@@ -1,0 +1,15 @@
+site_name: Home Lab Wiki
+site_description: Design and architecture of my home lab.
+site_url: https://homelab.taejupark.com/
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Stack: stack.md
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
+  - js/mermaid-init.js
