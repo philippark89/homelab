@@ -7,8 +7,11 @@ theme:
 
 nav:
   - Home: index.md
+  - Hardware: hardware.md
   - Architecture: architecture.md
-  - Stack: stack.md
+  - Software & Services: services.md
+  - Storage & Backups: storage.md
+  - Roadmap: roadmap.md
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
